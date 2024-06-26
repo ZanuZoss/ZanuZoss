@@ -62,7 +62,15 @@
 <hr>
 
 <!-- Bottom -->
-$${\color{red}Z}{\color{orange}a}{\color{yellow}n}{\color{greenyellow}u}{\color{green}Z}{\color{cyan}o}{\color{blue}s}{\color{purple}s}$$
+<div align="center">
+
+  $${\color{red}Z}{\color{orange}a}{\color{yellow}n}{\color{greenyellow}u}{\color{green}Z}{\color{cyan}o}{\color{blue}s}{\color{purple}s}$$
+
+  <hr>
+  
+  ![][projects]
+  
+</div>
 
 <!-- Link Group -->
 [banner]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/main/Media/bg.png
@@ -79,3 +87,4 @@ $${\color{red}Z}{\color{orange}a}{\color{yellow}n}{\color{greenyellow}u}{\color{
 [link-telegram]: https://telegram.me/ZanuZoss
 [kofi]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/main/Media/kofi.png
 [link-kofi]: https://ko-fi.com/zanuzoss
+[projects]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/main/Media/projects.png
