@@ -15,15 +15,6 @@
   ![][aboutme]
 
   <br>
-
-  | :question:    | :information_source:         |
-  |---------------|------------------------------|
-  | Username:     | @ZanuZoss                    |
-  | Name:         | Philip                       |
-  | Nationality:  | Italian /w Polish roots      |
-  | Working as a: | Software Enginner & Designer |
-  | Employed at:  | ?????                        |
-  | Birthday:     | 26/05                        |
   
 </div>
 
