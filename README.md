@@ -5,7 +5,6 @@
 <hr>
 
 <!-- Projects section -->
-[![ZanuZossWebsite88x31]][Website] [![ZanuZossWebsite88x31]][Website]
 [![ZanuZossWebsite88x31]][Website]
 
 <hr>
