@@ -5,6 +5,7 @@
 <hr>
 
 <!-- Sponsors section (maybe in the future, who knows...)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ZanuZoss?style=flat-square&color=00ff00)](https://github.com/sponsors/ZanuZoss)
 
 <hr> -->
 
