@@ -6,7 +6,7 @@
 
 <hr>
 
-![Count](https://komarev.com/ghvc/?username=ZanuZoss&color=green&style=flat-square)
+![Views](https://count.getloli.com/get/@ZanuZoss?theme=rule34)
 
 </div>
 
