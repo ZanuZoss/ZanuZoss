@@ -4,6 +4,10 @@
 
 <hr>
 
+<!-- Sponsors section (maybe in the future, who knows...)
+
+<hr> -->
+
 <!-- Projects section -->
 [![ZanuZossWebsite88x31]][Website]
 
