@@ -1,6 +1,6 @@
 <div align="center">
 
-[![ZanuZoss88x31]][Website]
+<big>[![ZanuZoss88x31]][Website]</big>
 
 <hr>
 
