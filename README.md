@@ -1,6 +1,6 @@
 <div align="center">
 
-<big>[![ZanuZoss88x31]][Website]</big>
+[![ZanuZoss88x31]][Website]
 
 <hr>
 
@@ -18,6 +18,6 @@
 
 </div>
 
-[ZanuZoss88x31]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/refs/heads/main/Assets/88x31ZanuZoss.png
+[ZanuZoss88x31]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/refs/heads/main/Assets/88x31.png
 [Website]: https://zanuzoss.website/
 [ZanuZossWebsite88x31]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/refs/heads/main/Assets/zanuzoss.website.gif
