@@ -18,6 +18,6 @@
 
 </div>
 
-[ZanuZoss88x31]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/refs/heads/main/Assets/ZanuZoss88x31.png
+[ZanuZoss88x31]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/refs/heads/main/Assets/88x31ZanuZoss.png
 [Website]: https://zanuzoss.website/
 [ZanuZossWebsite88x31]: https://raw.githubusercontent.com/ZanuZoss/ZanuZoss/refs/heads/main/Assets/zanuzoss.website.gif
